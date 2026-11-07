@@ -1,0 +1,16 @@
+{
+  "source_repo": "myaiwouldbemine/myaiwouldbemine-Copy-Learning-Hub",
+  "source_sha": "910c6c632ea0350eec0abf870790fed9bb1a6866",
+  "sha256": {
+    "scripts/autonomous_lifecycle.py": "24bf285e28296d1c6744769956b2c894241216e2d4bfb9279eff2cd601fc1989",
+    "scripts/test_autonomous_lifecycle.py": "6b67a4029fd14adaecdc6ed1d97eb8c491fd4bcef0dea37e57a2ec913a2b88e7",
+    "scripts/test_on_demand.py": "9ea0fad234950949d56e31bf99e4d2eff58076b88d02acfa36da7cbf9138f2c3",
+    "scripts/agent_job.py": "339c0dedf4ce20d5f58a71193cd3538255bfcf3e682c68e26760830b4cbfd2a7",
+    "scripts/test_agent_job.py": "57162e1a806d037269a7010c93c8ef5f9e29c06e98aa62aa93a8c260a6d6f783",
+    ".github/workflows/pages.yml": "02d98cca43e1354741af426f43cb210e4044c78240f5e4451dd7de516591caa8",
+    ".github/workflows/docs-check.yml": "ee103537523c397081775d9fb02916e8d4488f59ca59a3fdf74e712e3f80e5c8",
+    ".github/workflows/governance-tests.yml": "e3496cc9dfcdf34ecca14a2ff5fd0396d446f0558c1811c2e31a448703f17a12",
+    ".github/workflows/issue-agent.yml": "2c4d8bf69bf71edd17cdd22f61b7637fa3b9d063b36870c79abade1aa5ff57de",
+    ".github/workflows/merge-and-close-pr.yml": "3f56256a5833bbcc697952feb8840da1d2eaf47b17b3d6ed949b700914af3c11"
+  }
+}
