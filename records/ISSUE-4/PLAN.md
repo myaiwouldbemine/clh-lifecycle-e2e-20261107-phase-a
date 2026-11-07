@@ -1,0 +1,1 @@
+Goal: unique synthetic static marker. Codex. Scope docs/e2e-fixtures/phase-a.txt only plus records. Independent Plan before implementation; test strict build, required CI and Self-Review before protected merge. Exact SHA/readback/archive before closure. Rollback: later protected marker revert PR; preserve records. Original Phase A budgets and stop conditions apply.
