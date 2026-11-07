@@ -1,0 +1,4 @@
+site_name: Isolated Lifecycle Acceptance
+site_url: https://myaiwouldbemine.github.io/clh-lifecycle-e2e-20261107-phase-a/
+nav:
+  - Home: index.md
