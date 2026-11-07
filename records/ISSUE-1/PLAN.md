@@ -13,3 +13,7 @@ Run discovery tests, strict MkDocs, actionlint, diff check; required current-hea
 
 ## Rollback / budgets
 Stop affected operation on mismatch/permission denial; preserve open Issue/evidence. Up to 3 attempts unchanged failure, 20-minute CI/Pages bounds within parent 120-minute budget. Future tested revert PR retains safe deployment mechanism; no reset/history rewrite. Fixture rollback is separate. No repository deletion.
+
+## Minimal permission repair
+
+Official rules API hides bypass_actors without ruleset write access. Preserve default local full no-bypass audit; Pages explicitly checks effective native protection only. No missing field interpreted as empty. Required strict checks, threads, force/delete prevention, exact SHA and readback retained. Copy only three reviewed changed source files, test, strict build, lint and current CI. Sole Builder Codex reviews full head/base before protected merge; existing bootstrap Issue #1 remains deployment target. No new governance Issue or token. Preserve previous failed deployment. Local complete protection read before dispatch and after deploy. Resume installation then fixture/rollback under original budget conditions.
